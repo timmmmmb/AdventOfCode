@@ -1,4 +1,4 @@
-package ch.timmmmmb.adventofcode.day.two.two;
+package ch.timmmmmb.adventofcode.day02.two;
 
 import java.util.ArrayList;
 import java.util.Scanner;
