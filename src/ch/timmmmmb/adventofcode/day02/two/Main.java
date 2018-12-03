@@ -14,7 +14,7 @@ public class Main {
             line:for(int i = index+1;i<input.size();i++){
                 boolean difference = false;
                 for(int j=0;j<input.get(i).length();j++){
-                    //vergleiche jeden buchstaben
+                    //compare every character
                     if(input.get(i).charAt(j)!=input.get(index).charAt(j)){
                         if(difference){
                             continue line;
@@ -23,7 +23,7 @@ public class Main {
                         }
                     }
                 }
-                //die beiden sind identisch
+                //both are identical
                 System.out.println(input.get(i)+" "+input.get(index));
             }
         }
