@@ -1,4 +1,4 @@
-package ch.timmmmmb.adventofcode.day4.one;
+package ch.timmmmmb.adventofcode.day04.one;
 
 import java.util.Date;
 import java.util.concurrent.TimeUnit;

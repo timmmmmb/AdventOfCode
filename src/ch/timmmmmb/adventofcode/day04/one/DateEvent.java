@@ -1,4 +1,4 @@
-package ch.timmmmmb.adventofcode.day4.one;
+package ch.timmmmmb.adventofcode.day04.one;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

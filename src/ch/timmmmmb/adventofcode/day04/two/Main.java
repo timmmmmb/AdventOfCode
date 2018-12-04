@@ -1,6 +1,5 @@
-package ch.timmmmmb.adventofcode.day4.two;
+package ch.timmmmmb.adventofcode.day04.two;
 
-import java.text.ParseException;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.Date;
