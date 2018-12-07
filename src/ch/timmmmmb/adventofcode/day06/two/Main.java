@@ -29,7 +29,7 @@ public class Main {
         System.out.println("Amount of save Area: "+getAmountOfPointsClose(10000));
     }
 
-    public static int getAmountOfPointsClose(int maxdistance){
+    private static int getAmountOfPointsClose(int maxdistance){
         int amount = 0;
         for(int j = 0; j < coordinates.length; j++){
             for (int i = 0; i < coordinates[0].length; i++) {
