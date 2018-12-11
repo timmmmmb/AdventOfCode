@@ -1,4 +1,4 @@
-package ch.timmmmmb.adventofcode.Day07.one;
+package ch.timmmmmb.adventofcode.day07.one;
 
 import java.util.ArrayList;
 import java.util.Collections;
