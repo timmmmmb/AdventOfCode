@@ -1,9 +1,10 @@
 package ch.timmmmmb.adventofcode.day09.two;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 
 public class Main {
-    private static ArrayList<Integer> circle = new ArrayList<>();
+    private static LinkedList<Integer> circle = new LinkedList<>();
     private static ArrayList<Integer> players = new ArrayList<>();
     private static final int MAXPLAYER = 471;
     private static final int MAXVALUE = 72026;
