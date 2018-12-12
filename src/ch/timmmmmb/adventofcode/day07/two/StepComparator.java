@@ -1,4 +1,4 @@
-package ch.timmmmmb.adventofcode.Day07.two;
+package ch.timmmmmb.adventofcode.day07.two;
 
 import java.util.Comparator;
 
